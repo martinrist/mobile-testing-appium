@@ -1,0 +1,16 @@
+tmp/
+*.png
+.vscode/
+tags
+*.pyc
+__pycache__
+
+# Calabash
+.byebug_history
+.irb-history
+.bundle/
+run_scripts/test_servers/*
+test_servers/*
+vendor
+build
+.gradle
